@@ -12,7 +12,6 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "cypress": "^9.7.0",
-    "request": "^2.88.2"
+    "cypress": "^9.7.0"
   }
 }
